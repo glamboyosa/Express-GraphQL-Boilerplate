@@ -1,4 +1,4 @@
-# GraphQL Yoga Boilerplate
+# Express-GraphQL Boilerplate
 
 This repo contains the minimum amount of code to start building your GraphQL API using the Yoga Server.
 This comes with a mini demo.
